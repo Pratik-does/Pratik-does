@@ -99,10 +99,11 @@ Solutions are maintained in [`LeetCode-Solutions-Python`](https://github.com/Pra
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pratik-does&style=flat-square&color=4A90D9)
+<img src="https://streak-stats.demolab.com?user=Pratik-does&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" alt="GitHub Streak" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-does&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
 
 </div>
-
 ---
 
 <div align="center">
