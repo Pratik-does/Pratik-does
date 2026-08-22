@@ -1,199 +1,197 @@
 <div align="center">
 
-# 👋 Hi, I'm Pratik
+# Pratik Bairagi
 
-### Software Engineer in Progress | AI/ML Engineer | Problem Solver
+### Computer Science Graduate | Aspiring AI/ML Engineer | Software Engineer in Progress
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Solving+Algorithmic+Problems;Exploring+Machine+Learning;Turning+Data+into+Decisions" />
+Building intelligent systems through algorithms, data, and code.
+
+<br>
+
+<a href="https://leetcode.com/u/PratikBairagi/">
+<img src="https://img.shields.io/badge/LeetCode-PratikBairagi-orange?style=flat-square&logo=leetcode">
+</a>
+
+<a href="mailto:pratikbairagi319@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail">
+</a>
+
+<a href="https://linkedin.com/in/pratik-bairagi-analyst">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin">
+</a>
 
 </div>
 
 ---
 
-## 🧠 Engineering Journey
+## About
 
-I am a Computer Science learner focused on building strong foundations in:
+I am a Computer Science graduate focused on building strong foundations in **software engineering, machine learning, and problem solving**.
 
-- **Software Engineering**
-- **Machine Learning Engineering**
-- **Data Structures & Algorithms**
-- **Data-driven Systems**
+My current focus is developing the ability to design efficient solutions, build intelligent systems, and transform ideas into reliable software.
 
-My approach is simple:
+Areas I actively work on:
 
-```
-Understand the problem
-        ↓
-Identify the right pattern
-        ↓
-Design an efficient solution
-        ↓
-Write clean, maintainable code
-        ↓
-Measure and improve
-```
-
-I believe strong engineers are built through consistent problem solving, deep fundamentals, and the ability to turn ideas into reliable systems.
+- Algorithmic problem solving
+- Machine Learning engineering
+- Data-driven applications
+- Python development
+- SQL and data systems
+- Writing clean, maintainable code
 
 ---
 
-# 🚀 Currently Building
+# LeetCode Progress
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🧩 Algorithmic Problem Solving
+<a href="https://leetcode.com/u/PratikBairagi/">
 
-- LeetCode problem solving journey
-- Pattern recognition
-- Optimization techniques
-- Clean Python implementations
-- Complexity analysis
+<img src="https://leetcard.jacoblin.cool/PratikBairagi?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
 
-</td>
+</a>
 
-<td width="50%">
+</div>
 
-### 🤖 AI / ML Engineering
 
-- Machine learning workflows
+My LeetCode solutions repository focuses on:
+
+- Understanding problem patterns
+- Designing optimized approaches
+- Writing clean Python implementations
+- Documenting complexity and trade-offs
+
+---
+
+# Technical Skills
+
+## Languages
+
+Python • SQL
+
+## Data & Machine Learning
+
+NumPy • Pandas • Scikit-learn • Matplotlib
+
+## Engineering Tools
+
+Git • GitHub • VS Code • Jupyter
+
+## Core Concepts
+
+Data Structures • Algorithms • Machine Learning • Data Analysis • Software Design
+
+---
+
+# Engineering Focus
+
+```
+Problem Understanding
+        ↓
+Pattern Recognition
+        ↓
+Algorithm Design
+        ↓
+Optimization
+        ↓
+Clean Implementation
+        ↓
+Continuous Improvement
+```
+
+---
+
+# Current Learning Path
+
+### Software Engineering
+
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Writing scalable and maintainable code
+
+### Machine Learning
+
 - Data preprocessing
 - Model development
-- Evaluation techniques
-- Real-world applications
+- Model evaluation
+- Practical ML applications
 
-</td>
-</tr>
-</table>
+### Problem Solving
+
+- LeetCode practice
+- Algorithm patterns
+- Complexity analysis
 
 ---
 
-# 🛠️ Technical Arsenal
+# GitHub Analytics
 
 <div align="center">
 
-### Languages
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pratik-does&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
-<img src="https://skillicons.dev/icons?i=python,sql" />
-
-### Data & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
----
-
-# 📚 What I Practice
-
-```python
-skills = {
-    "Problem Solving": [
-        "Algorithms",
-        "Data Structures",
-        "Optimization",
-        "Complexity Analysis"
-    ],
-
-    "Machine Learning": [
-        "Data Processing",
-        "Model Training",
-        "Evaluation",
-        "Experimentation"
-    ],
-
-    "Engineering": [
-        "Clean Code",
-        "Version Control",
-        "System Thinking"
-    ]
-}
-```
-
----
-
-# 🏆 LeetCode Journey
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Pratik-does?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pratik-does&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik-does&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik-does&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-does&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-does&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌱 Current Learning Roadmap
+# Featured Work
 
-```
-Python
-  |
-  ├── Advanced Programming
-  |
-  ├── Data Structures & Algorithms
-  |
-  ├── Machine Learning
-  |
-  ├── AI Engineering
-  |
-  └── Building Production Systems
-```
+## Algorithm Repository
 
----
+A continuously updated collection of LeetCode solutions implemented in Python with:
 
-# 📌 Featured Areas
+- Optimized approaches
+- Pattern explanations
+- Complexity analysis
+- Interview-focused insights
 
-| Area | Focus |
-|---|---|
-| Algorithms | Efficient problem solving and optimization |
-| Machine Learning | Building practical ML solutions |
-| Data Engineering | Transforming raw data into usable systems |
-| Software Engineering | Writing scalable and maintainable code |
+
+## Machine Learning Projects
+
+Building practical ML projects involving:
+
+- Data exploration
+- Feature engineering
+- Model development
+- Evaluation
 
 ---
 
-# 🌐 Connect
+# Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/pratik-bairagi-analyst">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+LinkedIn
 </a>
 
+&nbsp;&nbsp;|&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/PratikBairagi/">
+LeetCode
+</a>
+
+&nbsp;&nbsp;|&nbsp;&nbsp;
+
 <a href="mailto:pratikbairagi319@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+Email
 </a>
 
 </div>
 
----
 
 <div align="center">
 
-### "Consistency compounds into expertise."
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=Pratik-does&style=flat-square&color=blue"/>
+Consistency compounds into expertise.
 
 </div>
