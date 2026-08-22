@@ -1,117 +1,199 @@
-# 👋 About Me
+<div align="center">
 
-I am a Computer Science graduate focused on building strong foundations in **software engineering, machine learning, and data-driven systems**.
+# 👋 Hi, I'm Pratik
 
-My work sits at the intersection of:
-- Software Development
-- Machine Learning Engineering
-- Data Analytics
-- Problem Solving
+### Software Engineer in Progress | AI/ML Engineer | Problem Solver
 
-Currently, I am strengthening my engineering fundamentals through:
-- Data Structures & Algorithms
-- LeetCode problem solving
-- Python development
-- Machine Learning workflows
-- SQL and data systems
-- Building end-to-end technical projects
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Solving+Algorithmic+Problems;Exploring+Machine+Learning;Turning+Data+into+Decisions" />
 
-I focus on understanding problems deeply, designing efficient solutions, and writing clean, maintainable code.
+</div>
 
 ---
 
-# 🚀 Current Focus
+## 🧠 Engineering Journey
 
-🔭 Building:
-- Machine learning projects from data collection to deployment
-- Analytical systems that transform raw data into actionable insights
-- Strong algorithmic problem-solving skills through consistent practice
+I am a Computer Science learner focused on building strong foundations in:
 
-🌱 Learning:
-- Advanced Python
-- Algorithms and Data Structures
-- Machine Learning Engineering
-- Model development and evaluation
-- Software engineering practices
+- **Software Engineering**
+- **Machine Learning Engineering**
+- **Data Structures & Algorithms**
+- **Data-driven Systems**
 
-🎯 Goal:
-To become an engineer capable of building scalable, intelligent systems by combining software engineering principles with machine learning.
+My approach is simple:
 
----
+```
+Understand the problem
+        ↓
+Identify the right pattern
+        ↓
+Design an efficient solution
+        ↓
+Write clean, maintainable code
+        ↓
+Measure and improve
+```
 
-# 🛠️ Technical Skills
-
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Data & Analytics
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Machine Learning
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-
-### Visualization & BI
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### Development Tools
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+I believe strong engineers are built through consistent problem solving, deep fundamentals, and the ability to turn ideas into reliable systems.
 
 ---
 
-# 🧠 Problem Solving
+# 🚀 Currently Building
 
-I maintain a structured LeetCode journey focused on:
+<table>
+<tr>
+<td width="50%">
 
-- Algorithmic thinking
-- Data structures
-- Optimization techniques
+### 🧩 Algorithmic Problem Solving
+
+- LeetCode problem solving journey
 - Pattern recognition
-- Writing efficient solutions
-
-Each solution is documented with:
-- Approach and intuition
-- Implementation details
+- Optimization techniques
+- Clean Python implementations
 - Complexity analysis
-- Key learning points
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI / ML Engineering
+
+- Machine learning workflows
+- Data preprocessing
+- Model development
+- Evaluation techniques
+- Real-world applications
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📂 Featured Work
+# 🛠️ Technical Arsenal
 
-🔹 Machine Learning Projects  
-Building practical ML workflows involving data preprocessing, analysis, modeling, and evaluation.
+<div align="center">
 
-🔹 Data Analytics Projects  
-Transforming complex datasets into meaningful insights through SQL, Python, and visualization.
+### Languages
 
-🔹 Algorithm Practice  
-Developing strong foundations through consistent competitive programming and interview preparation.
+<img src="https://skillicons.dev/icons?i=python,sql" />
+
+### Data & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
 
 ---
 
-# 🌐 Connect With Me
+# 📚 What I Practice
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-bairagi-analyst)
+```python
+skills = {
+    "Problem Solving": [
+        "Algorithms",
+        "Data Structures",
+        "Optimization",
+        "Complexity Analysis"
+    ],
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikbairagi319@gmail.com)
+    "Machine Learning": [
+        "Data Processing",
+        "Model Training",
+        "Evaluation",
+        "Experimentation"
+    ],
+
+    "Engineering": [
+        "Clean Code",
+        "Version Control",
+        "System Thinking"
+    ]
+}
+```
 
 ---
 
-# 📊 GitHub Stats
+# 🏆 LeetCode Journey
 
-![](https://github-readme-stats.shion.dev/api?username=Pratik-does&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
 
-![](https://streak-stats.demolab.com/?user=Pratik-does&theme=dark&hide_border=false)
+<img src="https://leetcard.jacoblin.cool/Pratik-does?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pratik-does&theme=dark&hide_border=false&layout=compact)
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pratik-does&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik-does&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-does&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🌱 Current Learning Roadmap
+
+```
+Python
+  |
+  ├── Advanced Programming
+  |
+  ├── Data Structures & Algorithms
+  |
+  ├── Machine Learning
+  |
+  ├── AI Engineering
+  |
+  └── Building Production Systems
+```
+
+---
+
+# 📌 Featured Areas
+
+| Area | Focus |
+|---|---|
+| Algorithms | Efficient problem solving and optimization |
+| Machine Learning | Building practical ML solutions |
+| Data Engineering | Transforming raw data into usable systems |
+| Software Engineering | Writing scalable and maintainable code |
+
+---
+
+# 🌐 Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/pratik-bairagi-analyst">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pratikbairagi319@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-Building consistently. Learning deeply. Engineering better solutions.
+### "Consistency compounds into expertise."
+
+<img src="https://komarev.com/ghpvc/?username=Pratik-does&style=flat-square&color=blue"/>
 
 </div>
