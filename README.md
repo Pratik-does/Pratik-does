@@ -1,44 +1,76 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Pratik%20Bairagi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=M.Tech%20CSE%20·%20Aspiring%20AI%2FML%20%26%20Software%20Engineer&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
+
 <div align="center">
 
-<h1>Pratik Bairagi</h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+AI%2FML+%26+Software+Engineering+foundations;DSA+%7C+Machine+Learning+%7C+Python+Development;ECE+%E2%86%92+CSE+%E2%86%92+AI%2FML+Engineering" alt="Typing animation" />
 
-<p>M.Tech Computer Science &nbsp;·&nbsp; SLIET Longowal</p>
-<p>Aspiring AI/ML Engineer &nbsp;·&nbsp; Software Engineering</p>
-
-<br>
+<br><br>
 
 <a href="https://linkedin.com/in/pratik-bairagi-analyst">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/PratikBairagi/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
-</a>
-&nbsp;
-<a href="mailto:pratikbairagi319@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
 </a>
 &nbsp;
 <a href="https://github.com/Pratik-does">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
+&nbsp;
+<a href="mailto:pratikbairagi319@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Pratik-does&style=flat-square&color=58A6FF&label=views" />
 
 </div>
 
 ---
 
-## Direction
+## About
 
-ECE graduate transitioning into AI/ML Engineering and Software Engineering through M.Tech CSE. Currently building rigorous fundamentals — algorithms and data structures, machine learning, and disciplined Python development — with the goal of working on systems at the intersection of applied ML and production software engineering.
+ECE graduate now pursuing M.Tech CSE at SLIET Longowal. Transitioning into AI/ML Engineering and Software Engineering by building from first principles — algorithms, machine learning systems, and Python development. Long-term target: engineering roles at the intersection of applied ML and production software.
 
 ---
 
-## Current Focus
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-- **Algorithms & Data Structures** — active problem-solving practice with Python implementations
-- **Machine Learning** — supervised learning, scikit-learn pipelines, data-driven project work
-- **Software Engineering Fundamentals** — code quality, analytical design, system-level thinking
-- **M.Tech Coursework** — Artificial Intelligence, Advanced Algorithms, OS Design, Advanced Database Systems
+### Engineering Direction
+
+- **DSA & Problem Solving** — structured LeetCode practice, Python-first implementations
+- **Machine Learning** — scikit-learn pipelines, supervised methods, end-to-end project work
+- **Software Engineering** — code quality, complexity analysis, system-level thinking
+- **M.Tech Core** — AI, Advanced Algorithms, OS Design, Advanced DB Systems
+
+</td>
+<td width="45%" valign="top">
+
+### Profile
+
+🎓 &nbsp;M.Tech CSE — SLIET Longowal *(2026–2028)*  
+📐 &nbsp;B.Tech ECE — Heritage Institute of Technology *(8.3 CGPA)*  
+🎯 &nbsp;Target: AI/ML & Software Engineering roles
+
+</td>
+</tr>
+</table>
+
+---
+
+## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,postgres&theme=dark" />
+
+<br><br>
+
+`Python` &nbsp;·&nbsp; `SQL` &nbsp;·&nbsp; `NumPy` &nbsp;·&nbsp; `Pandas` &nbsp;·&nbsp; `Scikit-learn` &nbsp;·&nbsp; `Matplotlib` &nbsp;·&nbsp; `Power BI` &nbsp;·&nbsp; `Jupyter`
+
+</div>
 
 ---
 
@@ -50,64 +82,35 @@ ECE graduate transitioning into AI/ML Engineering and Software Engineering throu
   <img src="https://leetcard.jacoblin.cool/PratikBairagi?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" />
 </a>
 
+<br><br>
+
+<sub>Solutions documented in <a href="https://github.com/Pratik-does/LeetCode-Solutions-Python"><strong>LeetCode-Solutions-Python</strong></a> — each entry includes approach, reasoning, time/space complexity, and key implementation notes.</sub>
+
 </div>
 
-<br>
-
-Solutions are maintained in [`LeetCode-Solutions-Python`](https://github.com/Pratik-does/LeetCode-Solutions-Python). Each solution documents the approach, reasoning, time/space complexity analysis, and key implementation notes — built as a long-term record of problem-solving progression, not a raw answer collection.
-
 ---
 
-## Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Languages & Core**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-</td>
-<td valign="top" width="34%">
-
-**ML & Data**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**Tooling**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Activity
+## GitHub
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Pratik-does&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" alt="GitHub Streak" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-does&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
+<img src="https://github-profile-trophy.vercel.app/?username=Pratik-does&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%" alt="GitHub Trophies" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik-does&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 
 </div>
+
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%" />
+
 <div align="center">
-
-<sub>pratikbairagi319@gmail.com &nbsp;·&nbsp; <a href="https://linkedin.com/in/pratik-bairagi-analyst">LinkedIn</a> &nbsp;·&nbsp; <a href="https://github.com/Pratik-does">GitHub</a> &nbsp;·&nbsp; <a href="https://leetcode.com/u/PratikBairagi/">LeetCode</a></sub>
-
+<sub>
+<a href="https://linkedin.com/in/pratik-bairagi-analyst">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://leetcode.com/u/PratikBairagi/">LeetCode</a> &nbsp;·&nbsp;
+<a href="https://github.com/Pratik-does">GitHub</a> &nbsp;·&nbsp;
+pratikbairagi319@gmail.com
+</sub>
 </div>
