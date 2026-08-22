@@ -8,8 +8,13 @@ Building intelligent systems through algorithms, data, and code.
 
 <br>
 
-<a href="https://leetcode.com/u/PratikBairagi/">
-<img src="https://img.shields.io/badge/LeetCode-PratikBairagi-orange?style=flat-square&logo=leetcode">
+## LeetCode
+
+<div align="center">
+  <a href="https://leetcode.com/u/PratikBairagi/">
+    <img src="https://leetcard.jacoblin.cool/PratikBairagi?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="Pratik Bairagi's LeetCode Stats" />
+  </a>
+</div>
 </a>
 
 <a href="mailto:pratikbairagi319@gmail.com">
