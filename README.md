@@ -99,9 +99,7 @@ Solutions are maintained in [`LeetCode-Solutions-Python`](https://github.com/Pra
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pratik-does&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-does&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Top Languages" />
+![Profile Views](https://komarev.com/ghpvc/?username=Pratik-does&style=flat-square&color=4A90D9)
 
 </div>
 
