@@ -1,21 +1,117 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building end-to-end analytics and machine learning projects that translate messy data into measurable business insights.<br><br>👯 I’m looking to collaborate on<br>High-impact data analytics, BI, and ML projects where strong problem-solving and execution matter.<br><br>🤝 I’m looking for help with<br>Refining portfolio-level projects, strengthening system thinking, and preparing for data analyst interviews.<br><br>🌱 I’m currently learning<br>Advanced SQL, Python, statistics, Power BI, and practical machine learning for real-world use cases.<br><br>💬 Ask me about<br>SQL, Python, Excel, Power BI, EDA, dashboard design, data cleaning, and analytics storytelling.<br><br>⚡ Fun fact<br>I enjoy turning raw data into decisions that are simple, clear, and actionable.
+# 👋 About Me
 
+I am a Computer Science graduate focused on building strong foundations in **software engineering, machine learning, and data-driven systems**.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/______.pratik.______) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-bairagi-analyst) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratikbairagi319@gmail.com) 
+My work sits at the intersection of:
+- Software Development
+- Machine Learning Engineering
+- Data Analytics
+- Problem Solving
 
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Pratik-does&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Pratik-does&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pratik-does&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Currently, I am strengthening my engineering fundamentals through:
+- Data Structures & Algorithms
+- LeetCode problem solving
+- Python development
+- Machine Learning workflows
+- SQL and data systems
+- Building end-to-end technical projects
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+I focus on understanding problems deeply, designing efficient solutions, and writing clean, maintainable code.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Pratik-does&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 Current Focus
+
+🔭 Building:
+- Machine learning projects from data collection to deployment
+- Analytical systems that transform raw data into actionable insights
+- Strong algorithmic problem-solving skills through consistent practice
+
+🌱 Learning:
+- Advanced Python
+- Algorithms and Data Structures
+- Machine Learning Engineering
+- Model development and evaluation
+- Software engineering practices
+
+🎯 Goal:
+To become an engineer capable of building scalable, intelligent systems by combining software engineering principles with machine learning.
+
+---
+
+# 🛠️ Technical Skills
+
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Data & Analytics
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Machine Learning
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### Visualization & BI
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### Development Tools
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+# 🧠 Problem Solving
+
+I maintain a structured LeetCode journey focused on:
+
+- Algorithmic thinking
+- Data structures
+- Optimization techniques
+- Pattern recognition
+- Writing efficient solutions
+
+Each solution is documented with:
+- Approach and intuition
+- Implementation details
+- Complexity analysis
+- Key learning points
+
+---
+
+# 📂 Featured Work
+
+🔹 Machine Learning Projects  
+Building practical ML workflows involving data preprocessing, analysis, modeling, and evaluation.
+
+🔹 Data Analytics Projects  
+Transforming complex datasets into meaningful insights through SQL, Python, and visualization.
+
+🔹 Algorithm Practice  
+Developing strong foundations through consistent competitive programming and interview preparation.
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-bairagi-analyst)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikbairagi319@gmail.com)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=Pratik-does&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=Pratik-does&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pratik-does&theme=dark&hide_border=false&layout=compact)
+
+---
+
+<div align="center">
+
+Building consistently. Learning deeply. Engineering better solutions.
+
+</div>
