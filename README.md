@@ -94,13 +94,31 @@ ECE graduate now pursuing M.Tech CSE at SLIET Longowal. Transitioning into AI/ML
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pratik-does&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%" alt="GitHub Trophies" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik-does&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+<a href="https://github.com/Pratik-does?tab=followers">
+  <img src="https://img.shields.io/github/followers/Pratik-does?style=flat-square&logo=github&logoColor=white&label=Followers&color=181717" />
+</a>
+&nbsp;
+<a href="https://github.com/Pratik-does/LeetCode-Solutions-Python">
+  <img src="https://img.shields.io/github/last-commit/Pratik-does/LeetCode-Solutions-Python?style=flat-square&logo=github&logoColor=white&label=Last+Solution&color=181717" />
+</a>
+&nbsp;
+<a href="https://github.com/Pratik-does/LeetCode-Solutions-Python/stargazers">
+  <img src="https://img.shields.io/github/stars/Pratik-does/LeetCode-Solutions-Python?style=flat-square&logo=github&logoColor=white&label=Stars&color=181717" />
+</a>
 
 </div>
+
+<br>
+
+<details>
+<summary><b>&nbsp;Repository Overview</b></summary>
+<br>
+
+| Repository | Purpose | Status |
+|---|---|---|
+| [LeetCode-Solutions-Python](https://github.com/Pratik-does/LeetCode-Solutions-Python) | Documented problem-solving journey — approach, complexity analysis, key insights per solution | 🟢 Active |
+
+</details>
 
 ---
 
