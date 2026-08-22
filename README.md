@@ -1,28 +1,32 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Pratik%20Bairagi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=M.Tech%20CSE%20·%20Aspiring%20AI%2FML%20%26%20Software%20Engineer&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+AI%2FML+%26+Software+Engineering+foundations;DSA+%7C+Machine+Learning+%7C+Python+Development;ECE+%E2%86%92+CSE+%E2%86%92+AI%2FML+Engineering" alt="Typing animation" />
+<h1>Pratik Bairagi</h1>
+
+<p>M.Tech Computer Science &nbsp;·&nbsp; SLIET Longowal<br>
+Aspiring AI/ML Engineer &nbsp;·&nbsp; Software Engineering</p>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+AI%2FML+%26+SE+foundations;DSA+%7C+Machine+Learning+%7C+Python;ECE+%E2%86%92+CSE+%E2%86%92+AI%2FML+Engineering" alt="Typing SVG" />
 
 <br><br>
 
 <a href="https://linkedin.com/in/pratik-bairagi-analyst">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;
 <a href="https://leetcode.com/u/PratikBairagi/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
-&nbsp;
 <a href="https://github.com/Pratik-does">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-&nbsp;
 <a href="mailto:pratikbairagi319@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Pratik-does&style=flat-square&color=58A6FF&label=views" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Pratik-does&style=flat-square&color=58A6FF&label=Profile+Views" alt="views"/>
 
 </div>
 
@@ -30,7 +34,7 @@
 
 ## About
 
-ECE graduate now pursuing M.Tech CSE at SLIET Longowal. Transitioning into AI/ML Engineering and Software Engineering by building from first principles — algorithms, machine learning systems, and Python development. Long-term target: engineering roles at the intersection of applied ML and production software.
+ECE graduate now pursuing M.Tech CSE at SLIET Longowal. Transitioning into AI/ML Engineering and Software Engineering by building from first principles — algorithms, machine learning, and Python development. Long-term target: engineering roles at the intersection of applied ML and production software.
 
 ---
 
@@ -64,7 +68,7 @@ ECE graduate now pursuing M.Tech CSE at SLIET Longowal. Transitioning into AI/ML
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,postgres&theme=dark" alt="Stack"/>
 
 <br><br>
 
@@ -79,12 +83,12 @@ ECE graduate now pursuing M.Tech CSE at SLIET Longowal. Transitioning into AI/ML
 <div align="center">
 
 <a href="https://leetcode.com/u/PratikBairagi/">
-  <img src="https://leetcard.jacoblin.cool/PratikBairagi?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/PratikBairagi?theme=dark&font=JetBrains+Mono&ext=heatmap" alt="LeetCode Stats"/>
 </a>
 
 <br><br>
 
-<sub>Solutions documented in <a href="https://github.com/Pratik-does/LeetCode-Solutions-Python"><strong>LeetCode-Solutions-Python</strong></a> — each entry includes approach, reasoning, time/space complexity, and key implementation notes.</sub>
+Solutions in <a href="https://github.com/Pratik-does/LeetCode-Solutions-Python"><strong>LeetCode-Solutions-Python</strong></a> — each entry documents approach, complexity, and key implementation notes.
 
 </div>
 
@@ -95,15 +99,15 @@ ECE graduate now pursuing M.Tech CSE at SLIET Longowal. Transitioning into AI/ML
 <div align="center">
 
 <a href="https://github.com/Pratik-does?tab=followers">
-  <img src="https://img.shields.io/github/followers/Pratik-does?style=flat-square&logo=github&logoColor=white&label=Followers&color=181717" />
+  <img src="https://img.shields.io/github/followers/Pratik-does?style=flat-square&logo=github&label=Followers&color=181717&logoColor=white" alt="Followers"/>
 </a>
 &nbsp;
 <a href="https://github.com/Pratik-does/LeetCode-Solutions-Python">
-  <img src="https://img.shields.io/github/last-commit/Pratik-does/LeetCode-Solutions-Python?style=flat-square&logo=github&logoColor=white&label=Last+Solution&color=181717" />
+  <img src="https://img.shields.io/github/last-commit/Pratik-does/LeetCode-Solutions-Python?style=flat-square&logo=github&label=Last+Solution&color=181717&logoColor=white" alt="Last Solution"/>
 </a>
 &nbsp;
 <a href="https://github.com/Pratik-does/LeetCode-Solutions-Python/stargazers">
-  <img src="https://img.shields.io/github/stars/Pratik-does/LeetCode-Solutions-Python?style=flat-square&logo=github&logoColor=white&label=Stars&color=181717" />
+  <img src="https://img.shields.io/github/stars/Pratik-does/LeetCode-Solutions-Python?style=flat-square&logo=github&label=Stars&color=181717&logoColor=white" alt="Stars"/>
 </a>
 
 </div>
@@ -115,20 +119,4 @@ ECE graduate now pursuing M.Tech CSE at SLIET Longowal. Transitioning into AI/ML
 <br>
 
 | Repository | Purpose | Status |
-|---|---|---|
-| [LeetCode-Solutions-Python](https://github.com/Pratik-does/LeetCode-Solutions-Python) | Documented problem-solving journey — approach, complexity analysis, key insights per solution | 🟢 Active |
-
-</details>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%" />
-
-<div align="center">
-<sub>
-<a href="https://linkedin.com/in/pratik-bairagi-analyst">LinkedIn</a> &nbsp;·&nbsp;
-<a href="https://leetcode.com/u/PratikBairagi/">LeetCode</a> &nbsp;·&nbsp;
-<a href="https://github.com/Pratik-does">GitHub</a> &nbsp;·&nbsp;
-pratikbairagi319@gmail.com
-</sub>
-</div>
+|---|---
