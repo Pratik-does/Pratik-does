@@ -96,25 +96,40 @@ Solutions in <a href="https://github.com/Pratik-does/LeetCode-Solutions-Python">
 
 ## GitHub
 
-<div align="center">
+<details>
+<summary><b>&nbsp;Repository Overview</b></summary>
+<br>
 
-<a href="https://github.com/Pratik-does?tab=followers">
-  <img src="https://img.shields.io/github/followers/Pratik-does?style=flat-square&logo=github&label=Followers&color=181717&logoColor=white" alt="Followers"/>
-</a>
-&nbsp;
-<a href="https://github.com/Pratik-does/LeetCode-Solutions-Python">
-  <img src="https://img.shields.io/github/last-commit/Pratik-does/LeetCode-Solutions-Python?style=flat-square&logo=github&label=Last+Solution&color=181717&logoColor=white" alt="Last Solution"/>
-</a>
-&nbsp;
-<a href="https://github.com/Pratik-does/LeetCode-Solutions-Python/stargazers">
-  <img src="https://img.shields.io/github/stars/Pratik-does/LeetCode-Solutions-Python?style=flat-square&logo=github&label=Stars&color=181717&logoColor=white" alt="Stars"/>
-</a>
-
-</div>
+<b><a href="https://github.com/Pratik-does/LeetCode-Solutions-Python">LeetCode-Solutions-Python</a></b><br>
+Structured problem-solving in Python — each solution documents approach, complexity analysis, and key implementation notes.<br>
+Status: 🟢 Active
 
 <br>
 
-<details>
+<b><a href="https://github.com/Pratik-does/Customer-Churn-Intelligence-System">Customer Churn Intelligence System</a></b><br>
+End-to-end churn prediction using SQL, Python, and Random Forest — 87% accuracy on telecom customer data.<br>
+Status: ✅ Completed
+
+<br>
+
+<b><a href="https://github.com/Pratik-does/RetentionLens">RetentionLens</a></b><br>
+Cohort retention analysis on 392K+ transactions using SQL Server and Tableau.<br>
+Status: ✅ Completed
+
+<br>
+
+<b><a href="https://github.com/Pratik-does/Retail-Customer-Behavior-Analytics">Retail Customer Behavior Analytics</a></b><br>
+Customer segmentation and behavior analysis using PostgreSQL and Power BI.<br>
+Status: ✅ Completed
+
+<br>
+
+<b><a href="https://github.com/Pratik-does/Marketing-Performance-Analytics-Dashboard">Marketing Performance Analytics Dashboard</a></b><br>
+Multi-channel campaign analytics dashboard built with Streamlit and Python.<br>
+Status: ✅ Completed
+
+<br>
+</details>
 <summary><b>&nbsp;Repository Overview</b></summary>
 <br>
 
