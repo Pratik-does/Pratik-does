@@ -128,14 +128,4 @@ Status: ✅ Completed
 Multi-channel campaign analytics dashboard built with Streamlit and Python.<br>
 Status: ✅ Completed
 
-<br>
-</details>
-<summary><b>&nbsp;Repository Overview</b></summary>
-<br>
 
-<b><a href="https://github.com/Pratik-does/LeetCode-Solutions-Python">LeetCode-Solutions-Python</a></b><br>
-Documented problem-solving journey — approach, complexity analysis, and key implementation notes per solution.<br>
-Status: 🟢 Active
-
-<br>
-</details>
