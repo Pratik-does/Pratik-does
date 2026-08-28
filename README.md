@@ -11,7 +11,7 @@ Aspiring AI/ML Engineer &nbsp;·&nbsp; Software Engineering</p>
 
 <br><br>
 
-<a href="https://linkedin.com/in/pratik-bairagi-analyst">
+<a href="www.linkedin.com/in/pratikbairagi">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://leetcode.com/u/PratikBairagi/">
